@@ -83,7 +83,50 @@ java CalculatorApp
 If your class is inside a package, you'll need to run it with the full package path.
 
 ---
+#### For Blue J
 
+
+---
+
+## ✅ Steps to Run the Calculator on Your Computer (Using BlueJ)
+
+Since you've been using **BlueJ**, here's how to do it there:
+
+---
+
+### 🔹 Step 1: Download the Code from GitHub
+
+If you uploaded just the `.java` file:
+
+1. Go to your repository on GitHub.
+2. Click the **“Code”** button (green).
+3. Click **“Download ZIP”**.
+4. Extract the ZIP file.
+5. You’ll see your `CalculatorApp.java` file inside.
+
+---
+
+### 🔹 Step 2: Open in BlueJ
+
+1. Open BlueJ.
+2. Click **“Project > New Project”** → name it (e.g., `JavaCalculator`).
+3. Click **“Project > Add Class From File…”**
+4. Select the downloaded `CalculatorApp.java` file.
+5. The class box should appear in BlueJ.
+
+---
+
+### 🔹 Step 3: Compile and Run
+
+1. **Double-click** the class to open the code.
+2. Click **“Compile”** (top-left).
+3. Right-click the class box in the main BlueJ window.
+4. Select **`void main(String[] args)`** and click **OK**.
+
+✅ **Your calculator GUI should now pop up!**
+
+
+ 
 ## Summary
 
 * Your `.java` file can run in **any IDE** that supports Java.
